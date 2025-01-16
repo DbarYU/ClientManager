@@ -1,0 +1,38 @@
+[
+    {
+        "ticker": "IBM",
+        "company_name": "International Business Machines Corporation",
+        "prev_update_date": "December 09, 2024",
+        "contents": "Regulation FD Disclosure: IBM will hold an Investor Day on February 4, in person in New York City. The event will be webcast live and available for replay on the Company\u2019s investor relaTons website at hUps://www.ibm.com/investor. Chairman, President and Chief ExecuTve Officer Arvind Krishna, Chief Financial Officer James J. Kavanaugh, and other members of IBM's senior leadership team will discuss the company's strategy.",
+        "press_release_links": "https://www.sec.gov/Archives/edgar/data/0000051143/000005114324000052/form8-k4q24ex991120924.htm",
+        "accession_number": "0000051143-24-000052",
+        "has_updates": false
+    },
+    {
+        "ticker": "AAPL",
+        "company_name": "Apple Inc.",
+        "prev_update_date": "December 01, 2024",
+        "contents": "Kevan Parekh,  Apple\u2019s Senior Vice President, Chief Financial Officer, effective January 1, 2025. He succeeds Luca Maestri in the role. His annual salary was increased to $1 million.",
+        "press_release_links": "No Link Available",
+        "accession_number": "0001140361-25-000228",
+        "has_updates": false
+    },
+    {
+        "ticker": "NVDA",
+        "company_name": "NVIDIA Corporation",
+        "prev_update_date": "November 20, 2024",
+        "contents": "Quarterly Results: Revenue for the third quarter ended October 27, 2024, of $35.1 billion, up 17% from the previous quarter and up 94% from a year ago. For the quarter, GAAP earnings per diluted share was $0.78, up 16% from previous quarter. Data Center revenue was a record $30.8 billion. NVIDIA will pay its next quarterly cash dividend of $ 0.01 per share on December 27, 2025.",
+        "press_release_links": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581024000315/q3fy25pr.htm",
+        "accession_number": "0001045810-24-000315",
+        "has_updates": false
+    },
+    {
+        "ticker": "TSLA",
+        "company_name": "Tesla, Inc.",
+        "prev_update_date": "January 02, 2025",
+        "contents": "Quarterly Results: Tesla will post its financial results for the fourth quarter of 2024 after market close on Wednesday, January 29, 2025. Tesla management will hold a live question and answer webcast that day at 4:30 p.m. Central Time.",
+        "press_release_links": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828025000007/exhibit991.htm",
+        "accession_number": "0001628280-25-000007",
+        "has_updates": false
+    }
+]
