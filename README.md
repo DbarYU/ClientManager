@@ -64,7 +64,6 @@ It eliminates the need for manual tracking and makes it easier to prioritize and
 
 ---
 
-## **Screenshots**
 ### Main Dashboard
 ![image](https://github.com/user-attachments/assets/a4b82539-56c5-4bd5-8684-6ca56a9f3c5c)
 
