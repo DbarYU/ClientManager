@@ -68,7 +68,7 @@ It eliminates the need for manual tracking and makes it easier to prioritize and
 ![image](https://github.com/user-attachments/assets/a4b82539-56c5-4bd5-8684-6ca56a9f3c5c)
 
 ### Detailed Summary Popup
-![image](https://github.com/user-attachments/assets/6ba46eba-6a25-40a2-bd81-6dec268f6e51)
+![image](https://github.com/user-attachments/assets/59002d0b-998e-4e8d-b8fb-12df0081f31b)
 
 ---
 
